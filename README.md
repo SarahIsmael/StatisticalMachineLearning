@@ -1,2 +1,3 @@
-# statistic-machine-learning
-I try to find more relevant features in song dataset to predict which songs that the customer likes or dislike 
+Statistical-machine-learning
+
+Song Likeness Prediction by applying Logistic regression models and Tree-based methods.
